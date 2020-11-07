@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assist Me</string>
+    <string name="preview_area" />
+
+    <string name="register">Register</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="login_name_hint">Name</string>
+    <string name="login_mobile_number_hint">Mobile Number</string>
+
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="email">Email Id</string>
+    <string name="forgot">Forgot Password?</string>
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118057332401",
+    "firebase_url": "https://dimo-application.firebaseio.com",
+    "project_id": "dimo-application",
+    "storage_bucket": "dimo-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118057332401:android:e743e64890d316be1efc90",
+        "android_client_info": {
+          "package_name": "com.example.dimo_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118057332401-gt0dt7m0kissl7kkruj0du0ip6jv1eit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnBh3VDSx3eMW3EgCClTwdUNeijT4II0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118057332401-gt0dt7m0kissl7kkruj0du0ip6jv1eit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
